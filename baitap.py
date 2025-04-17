@@ -2,8 +2,10 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-# st.write("Hello World!")
-# st.write("Hello Streamlit!")
+st.write("Thông tin nhóm: ")
+st.write("- Phạm Thị Phượng - 2221050063")
+st.write("- Trần Minh Thanh - 2221050799")
+st.write("- Nguyễn Trung Quốc - 2221050438")
 
 
 # st.write("Hello ,let's learn how to build a streamlit app")
